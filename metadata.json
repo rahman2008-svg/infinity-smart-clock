@@ -1,0 +1,6 @@
+{
+  "name": "Infinity Smart Clock",
+  "description": "An advanced smart clock app with customizable alarms, world clocks, stopwatch, timers, planner tasks, bedtime tracking, and intelligent AI features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
